@@ -1,5 +1,6 @@
-<img src="images/banner.png" width="100%">
 
+
+![image](https://user-images.githubusercontent.com/64655153/158041135-848eb66b-9081-4367-9126-bfd9eea1f75b.png)
 
 **Hi, I'm Evandro Araujo! **
 
